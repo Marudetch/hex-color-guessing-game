@@ -1,0 +1,6 @@
+{
+  "name": "HEX Color Guessing Game",
+  "description": "A modern minimal dark-themed HEX color guessing game where players test their color knowledge across 10 rounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
